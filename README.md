@@ -1,4 +1,4 @@
-# Accenture-Data-Analytics-Virtual-Program-Answers
+# Accenture-Data-Analytics-Virtual-Program
 
 This repository consists of Accenture Data Analytics Virtual Experience Program Answers.
 
