@@ -3,14 +3,14 @@
 For the Project
 The client has sent through:
 •	7 data sets - each data set contains different columns and values
-•	A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
-For these we need to follow the below steps:
+•	A data model - this shows the relationships between all of the data sets, as well as any links that can use to merge tables.
+For these need to follow the below steps:
 1.	Requirements gathering
 2.	Data cleaning
 3.	Data modelling
 Data sets :
    ->Reaction, Content, and Reaction Types as data sets.
-To clarify why you made this selection:
+To clarify why these selection has made:
 •	The brief carefully it states that the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 •	As explained in the data model, popularity is quantified by the “Score” given to each reaction type.
 •	It need to data show the content ID, category, content type, reaction type, and reaction score.
