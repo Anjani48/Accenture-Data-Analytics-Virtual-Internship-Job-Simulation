@@ -1,7 +1,4 @@
 # Accenture-Data-Analytics-Virtual-Program
 
-This repository consists of Accenture Data Analytics Virtual Experience Program Answers.
+![image](https://github.com/user-attachments/assets/b217c1c3-7b51-4563-b2ee-a8b259b5a820)
 
-Link to youtube video : https://youtu.be/wzkT19GoQ0c
-
-For Task 1 & Task 4 refer the video.
